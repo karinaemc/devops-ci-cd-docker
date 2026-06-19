@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "Aplicacion ejecutada correctamente"
 
+echo "Error intencional"
+
+exit 1
